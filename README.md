@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahiboobnadaf
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning JavaScript, React, Node js, Docker
+- 🌱 I’m currently learning JavaScript, React, Node js, Express js, Java, MySQL
 - 📫 How to reach me gmail: mahiboob052@gmail.com
 
 <!---
