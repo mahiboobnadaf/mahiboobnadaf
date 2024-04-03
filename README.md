@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahiboobnadaf
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning JavaScript, React, Node js, Express js, Java, MySQL
+- 👀 I’m a Software Developer
+- 🌱 Skills HTML,CSS, TailwindCSS, JavaScript, React, Node js, Express, MySQL, ORM, Python
 - 📫 How to reach me gmail: mahiboob052@gmail.com
 
 <!---
