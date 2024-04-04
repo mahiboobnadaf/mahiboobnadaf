@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=mahiboobnadaf)](https://github.com/ryo-ma/github-profile-trophy)
 - 👋 Hi, I’m @mahiboobnadaf
 - 👀 I’m a Software Developer
 - 🌱 Skills HTML,CSS, TailwindCSS, JavaScript, React, Node js, Express, MySQL, ORM, Python
