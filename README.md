@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahiboobnadaf&label=Profile%20views&color=0e75b6&style=flat" alt="mahiboobnadaf" /> </p>
 
-- 🌱 Skills **HTML, CSS, TailwindCSS, JavaScript, React, Node js, Express, MySQL, ORM, Python, Java**
+- 🌱 Skills **HTML, CSS, TailwindCSS, JavaScript, React, Node js, Express, MySQL, ORM**
 - 🔭 I’m currently working on **Digital Notice Board**
 - 📫 How to reach me **mahiboob052@gmail.com**
 
