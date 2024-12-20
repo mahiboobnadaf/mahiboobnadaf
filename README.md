@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahiboobnadaf&label=Profile%20views&color=0e75b6&style=flat" alt="mahiboobnadaf" /> </p>
 
 - 🌱 Skills **HTML, CSS, TailwindCSS, JavaScript, React, Next Js, Node js, Express, MySQL, ORM, Python, Java**
-- 🔭 I’m currently working on **Digital Notice Board**
+- 🔭 I’m currently working on **RedBus Clone Using Next Js**
 - 📫 How to reach me **mahiboob052@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
